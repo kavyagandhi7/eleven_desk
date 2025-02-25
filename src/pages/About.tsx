@@ -38,7 +38,7 @@ const About = () => {
             >
               <h2 className="text-3xl font-bold text-white mb-6">Our Story</h2>
               <p className="text-gray-400 mb-6">
-                Founded by Kavya Gandhi, Eleven Desk Services has been at the
+                Founded by Zarul Shaikh, Eleven Desk Services has been at the
                 forefront of technological innovation since its inception. Our
                 journey began with a vision to transform how businesses leverage
                 technology in the digital age.

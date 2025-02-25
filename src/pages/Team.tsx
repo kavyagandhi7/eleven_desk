@@ -6,14 +6,14 @@ import { Linkedin, Twitter, Mail } from "lucide-react";
 const Team = () => {
   const team = [
     {
-      name: "Kavya Gandhi",
+      name: "Zarul Shaikh",
       role: "CEO & Founder",
       image:
         "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80",
       bio: "Visionary leader with over 15 years of experience in IT industry.",
     },
     {
-      name: "Alex Chen",
+      name: "Hamza Ansari",
       role: "CTO",
       image:
         "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80",

@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.logo {
+  @apply h-20 w-auto object-contain; /* Tailwind classes to adjust size */
+  aspect-ratio: 2/3; /* Keeps the logo's aspect ratio */
+}

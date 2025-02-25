@@ -11,7 +11,7 @@ const Blog = () => {
         "Explore the latest trends in cloud computing and how they shaping the future of business technology.",
       image:
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80",
-      author: "Kavya Gandhi",
+      author: "Zarul Shaikh",
       date: "Mar 15, 2024",
       readTime: "5 min read",
     },
@@ -21,7 +21,7 @@ const Blog = () => {
         "Learn about best practices for developing secure applications and protecting against modern cyber threats.",
       image:
         "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80",
-      author: "David Kumar",
+      author: "Dev Kumar",
       date: "Mar 12, 2024",
       readTime: "7 min read",
     },
@@ -31,7 +31,7 @@ const Blog = () => {
         "Discover how artificial intelligence is transforming enterprise software and business operations.",
       image:
         "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80",
-      author: "Alex Chen",
+      author: "Faruq Chen",
       date: "Mar 10, 2024",
       readTime: "6 min read",
     },
@@ -51,7 +51,7 @@ const Blog = () => {
         "Understanding the importance of DevOps in modern software development.",
       image:
         "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80",
-      author: "Michael Torres",
+      author: "Michael",
       date: "Mar 5, 2024",
       readTime: "8 min read",
     },
@@ -61,7 +61,7 @@ const Blog = () => {
         "How 5G technology is revolutionizing mobile application development and user experiences.",
       image:
         "https://images.unsplash.com/photo-1478432780021-b8d273730d8c?auto=format&fit=crop&q=80",
-      author: "Emily Wong",
+      author: "Sudhir",
       date: "Mar 3, 2024",
       readTime: "5 min read",
     },
