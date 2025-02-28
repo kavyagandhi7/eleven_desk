@@ -133,8 +133,8 @@ const Terms = () => {
                 <p>Eleven Desk Services</p>
                 <p>Dubai Silicon Oasis</p>
                 <p>Dubai, United Arab Emirates</p>
-                <p>Email: legal@elevendesk.com</p>
-                <p>Phone: +971 4 XXX XXXX</p>
+                <p>Email: hr@elevendesk.ae</p>
+                <p>Phone: +1 (431) 804-6745</p>
               </div>
             </section>
           </motion.div>
