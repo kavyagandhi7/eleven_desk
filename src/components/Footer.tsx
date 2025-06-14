@@ -129,15 +129,19 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-center text-gray-400">
                 <MapPin size={20} className="mr-2" />
-                Dubai, United Arab Emirates
+                Ajman, United Arab Emirates  Ahmedabad, India
               </li>
               <li className="flex items-center text-gray-400">
                 <Phone size={20} className="mr-2" />
-                +1 (431) 804-6745
+                +1 (431) 804-6745 
+                <br/>
+                +91 70483 07014
               </li>
               <li className="flex items-center text-gray-400">
                 <Mail size={20} className="mr-2" />
                 hr@elevendesk.ae
+                <br/>
+                contact@elevendesk.ae
               </li>
             </ul>
           </div>
@@ -146,7 +150,7 @@ const Footer = () => {
         <div className="border-t border-white/10 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © {new Date().getFullYear()} Eleven Desk Services. All rights
+              © 2013 Eleven Desk Services. All rights
               reserved.
             </p>
             <div className="flex space-x-6">
